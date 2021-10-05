@@ -96,6 +96,13 @@ var participants =
   "name":"Yash Gupta",
   "intro":"MERN Stack Developer | Freelancer | Competitve Coder",
   "quote":"Code is Life"
+},
+{
+  "github":"onerouskin",
+  "name":"Gaurav Puniya",
+  "intro":"Sophomer | Android Dev",
+  "quote":"It's You vs You"
+  
 }
 
   
